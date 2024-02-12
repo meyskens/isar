@@ -24,8 +24,3 @@ set(isar_flutter_libs_bundled_libraries
   PARENT_SCOPE
 )
 
-set(isar_flutter_libs_bundled_libraries
-  "$<TARGET_FILE:libisar>"
-  PARENT_SCOPE
-)
-
